@@ -34,8 +34,15 @@ TU_ID     = "179714"
 # Streamlit Cloud actualiza tu dashboard solo en 30 segundos.
 # ============================================================
 TU_INSIGHT = """
-Aun no he escrito mi insight. Lo agregare despues de explorar
-los graficos y filtros de mi dashboard.
+Descubrí que la región East presenta el menor margen, con solo 1.9%, 
+frente al 4.5% de Central; que las ventas mensuales muestran variaciones
+importantes; que ninguna de las órdenes con mayores ventas registra pérdidas, 
+aunque una orden de Furniture en East apenas alcanzó un margen cercano al 5%; 
+y que Furniture mantiene un volumen importante de ventas, pero con rentabilidad 
+baja e incluso algunas operaciones negativas. Recomiendo revisar los descuentos, 
+precios y costos de East y Furniture, establecer un margen mínimo por operación 
+y ajustar inventario y personal según la demanda para mejorar la rentabilidad
+sin frenar las ventas.
 """
 
 # ============================================================
